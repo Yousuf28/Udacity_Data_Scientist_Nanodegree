@@ -1,8 +1,13 @@
-# Udacity_Data_Scientist_Nanodegree
+# Udacity_Data_Scientist_Nanodegree_Term_01
+
+# MACHINE LEARNING FOR DATA SCIENTISTS
+
+ - [Syllabus](https://nbviewer.jupyter.org/github/Yousuf28/Udacity_Data_Scientist_Nanodegree/blob/master/Data_Scientist_Nanodegree_Syllabus.pdf)
 
 ### Notebook
 
 ### Main Project
+
 
 ****
 #### Supervised Machine Learning
