@@ -43,7 +43,13 @@ There are two terms in Data Scientist Nanodegree. I only have completed term 01 
 *****
 
 
+Here is a link for machine learning materials that I have followed besides Udacity provided course materials.
+
+ - [Online_Machine_Learning_Materials](https://yousuf28.github.io/Machine_Learning_Materials_to_Follow/)
+
 ****
+
+Udacity Data Scientist Syllabus
 
  - [Syllabus](https://nbviewer.jupyter.org/github/Yousuf28/Udacity_Data_Scientist_Nanodegree/blob/master/Data_Scientist_Nanodegree_Syllabus.pdf)
 
