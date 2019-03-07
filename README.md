@@ -1,15 +1,19 @@
-# Udacity_Data_Scientist_Nanodegree_Term_01
+# Udacity_Data_Scientist_Nanodegree
 
-# MACHINE LEARNING FOR DATA SCIENTISTS
+****
 
- - [Syllabus](https://nbviewer.jupyter.org/github/Yousuf28/Udacity_Data_Scientist_Nanodegree/blob/master/Data_Scientist_Nanodegree_Syllabus.pdf)
+# Term 01__Machine Learning For Data Scientists
 
-### Notebook
+***
+There are two terms in Data Scientist Nanodegree. I only have completed term 01 so far. Here all three projects from the term 01.
 
-### Main Project
+****
+
+### Main Project_notebook
 
 
 ****
+
 #### Supervised Machine Learning
 
 - [Finding Donors for CharityML_nbviewer](https://nbviewer.jupyter.org/github/Yousuf28/Udacity_Data_Scientist_Nanodegree/blob/master/01_SuperVised/Course_Materials/10_Project/submit/finding_donors.ipynb)
@@ -35,6 +39,13 @@
 
 - [github_link](https://github.com/Yousuf28/Udacity_Data_Scientist_Nanodegree/tree/master/03_Unsupervised/Project_and_exercise_unsupervised/Unsupervised_Project/submit_final_02)
 
+
+*****
+
+
+****
+
+ - [Syllabus](https://nbviewer.jupyter.org/github/Yousuf28/Udacity_Data_Scientist_Nanodegree/blob/master/Data_Scientist_Nanodegree_Syllabus.pdf)
 
 *****
 
