@@ -12,7 +12,8 @@ There are two terms in Data Scientist Nanodegree. I only have completed term 01 
 ### Main Project_notebook
 
 
-****
+*******
+*******
 
 #### Supervised Machine Learning
 
@@ -39,6 +40,37 @@ There are two terms in Data Scientist Nanodegree. I only have completed term 01 
 
 - [github_link](https://github.com/Yousuf28/Udacity_Data_Scientist_Nanodegree/tree/master/03_Unsupervised/Project_and_exercise_unsupervised/Unsupervised_Project/submit_final_02)
 
+***********************
+*********************
+***********************
+  
+  
+  
+   
+   
+    
+
+
+Course materials provided by Udacity are great. Everything explained visually first and then theory given. 
+ 
+ specially these two guys really know magic......
+ 
+ - [Luis G. Serrano](https://twitter.com/luis_likes_math)
+ 
+ - [Jay Alammar](https://twitter.com/jalammar)
+ 
+ 
+some materials are only available for students who have enrolled in the course.
+
+some materials provided on github.
+ 
+ - [Here_Udacity_Course Material_on_github](https://github.com/udacity/DSND_Term1)
+ 
+******
+
+Udacity Data Scientist Syllabus
+
+ - [Syllabus](https://nbviewer.jupyter.org/github/Yousuf28/Udacity_Data_Scientist_Nanodegree/blob/master/Data_Scientist_Nanodegree_Syllabus.pdf)
 
 *****
 
@@ -47,11 +79,16 @@ Here is a link for machine learning materials that I have followed besides Udaci
 
  - [Online_Machine_Learning_Materials](https://yousuf28.github.io/Machine_Learning_Materials_to_Follow/)
 
+*****
+
+
+here is the guy who teach MAGIC for free
+
+ - [Joshua Starmer](https://twitter.com/joshuastarmer)
+
 ****
 
-Udacity Data Scientist Syllabus
+I am also big fan of this guy from Udemy, this guy knows everything.
 
- - [Syllabus](https://nbviewer.jupyter.org/github/Yousuf28/Udacity_Data_Scientist_Nanodegree/blob/master/Data_Scientist_Nanodegree_Syllabus.pdf)
-
-*****
+- [Jose Portilla](https://www.udemy.com/user/joseportilla/)
 
