@@ -18,8 +18,8 @@
 
 - [image classifier_Developing an AI application_nbviewer](https://nbviewer.jupyter.org/github/Yousuf28/Udacity_Data_Scientist_Nanodegree/blob/master/02_DeepLearnning/Course_material/p2_image_classifier/submit/Image%20Classifier%20Project.ipynb)
 
-go to this below mentioned link to see all the files to run in command line.
-- [github_link](https://github.com/Yousuf28/Udacity_Data_Scientist_Nanodegree/tree/master/02_DeepLearnning/Course_material/p2_image_classifier/submit)
+
+- [github_link_go to this link to see all the files to run in command line.](https://github.com/Yousuf28/Udacity_Data_Scientist_Nanodegree/tree/master/02_DeepLearnning/Course_material/p2_image_classifier/submit)
 
 ********
 
