@@ -5,7 +5,7 @@
 ### Main Project
 
 ****
-##### Supervised Machine Learning
+#### Supervised Machine Learning
 
 - [Finding Donors for CharityML_nbviewer](https://nbviewer.jupyter.org/github/Yousuf28/Udacity_Data_Scientist_Nanodegree/blob/master/01_SuperVised/Course_Materials/10_Project/submit/finding_donors.ipynb)
 
@@ -18,6 +18,7 @@
 
 - [image classifier_Developing an AI application_nbviewer](https://nbviewer.jupyter.org/github/Yousuf28/Udacity_Data_Scientist_Nanodegree/blob/master/02_DeepLearnning/Course_material/p2_image_classifier/submit/Image%20Classifier%20Project.ipynb)
 
+go to this link to see all file
 - [github_link](https://github.com/Yousuf28/Udacity_Data_Scientist_Nanodegree/tree/master/02_DeepLearnning/Course_material/p2_image_classifier/submit)
 
 ********
