@@ -1,0 +1,76 @@
+cd /Users/YOUSUF/Documents/01_online_courses/04_udacity/data_analyst_nano_degree_yousuf
+
+
+cd /Users/YOUSUF/Documents/01_online_courses/04_udacity/data_scientist_nanodegree
+
+
+conda install numpy
+
+conda uninstall numpy
+
+conda update numpy
+
+
+env:
+
+create env: analyst env name
+
+conda create --name analyst python=3.6
+
+conda create --name analyst python=3.6 numpy pandas matplotlib (if want more packege)
+
+activat:
+
+source activate analyst
+
+leave env:
+
+source deactivate analyst
+
+
+
+
+list your env:
+
+conda env list
+
+
+remove env:
+
+conda env remove --name analyst
+
+
+
+extra:
+
+ checking version-
+
+conda --version
+
+
+conda list    (chec nb_conda_kernel)
+
+
+export: 
+activate env and then 
+conda env export > name.yaml
+
+more name.yaml for to know dependency
+
+create new env from file
+
+conda env create -f environment.yml
+
+
+
+
+  
+Run 
+jupyter kernelspec list 
+
+to get the paths of all your kernels. 
+
+hen simply uninstall your unwanted-kernel
+
+jupyter kernelspec uninstall unwanted-kernel
+

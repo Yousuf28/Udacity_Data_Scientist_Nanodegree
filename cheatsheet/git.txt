@@ -1,0 +1,41 @@
+
+git
+
+diffference for unstaged
+
+git diff file.txt
+
+but git add
+
+git diff --staged file.txt
+
+
+history of commit log
+
+git log
+
+for pretty print
+
+git log --pretty=format:"%h %an %ar - %s"
+
+
+
+While git log tells you the commit author and message, to view the changes made in the commit you need to use the the command
+
+ git show
+
+remove from github but not from local
+
+git rm --cached file.txt
+
+
+remove folder 
+
+git rm --cached -r  "part_05_communicate_data_finding/Project Template"
+
+
+
+undo git init
+
+rm -rf .git
+

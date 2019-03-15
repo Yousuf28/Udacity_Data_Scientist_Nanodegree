@@ -1,0 +1,381 @@
+
+
+cd /Users/YOUSUF/Documents/01_online_courses/04_udacity/data_analyst_nano_degree_yousuf
+
+
+cd /Users/YOUSUF/Documents/01_online_courses/04_udacity/data_scientist_nanodegree
+
+cd /Users/YOUSUF/Documents/01_online_courses/04_udacity/deep_learning_nanodegree 
+
+
+
+
+make archive in command line
+
+tar -cf archive.tar foo fox (file name)
+
+use this
+tar current workspace (all file)
+
+tar -czf workspace.tar.gz . --exclude=./*.gz
+
+
+whole folder (unix file is folder)
+
+tar -zcvf archive-name.tar.gz ~/unix/unix_files
+
+
+pwd
+cd 
+# back one directory
+cd ..
+
+back two directory
+
+cd ../..
+
+(use tab for auto completeion)
+toggle between directory
+
+cd -
+
+home directory
+cd ~
+
+## creat file
+touch
+
+# text editor
+nano
+
+## concatenate(give one file just read it, give more file it will concatenate), 
+
+cat (show whole text at onece)
+
+less  (more helpful)
+more
+
+g 
+#go to begining of document
+shift +g 
+#goto end of document
+
+
+head
+
+tail
+tail -f
+
+## directory
+mkdir
+
+## for creating directory inside diretory
+mkdir -p testdir/test1/test2
+
+## moving file
+
+mv
+
+mv newfile.txt testdir/newfile.txt
+mv newfile.txt testdir
+
+## move parent directory
+
+mv newfile.txt  ..
+
+mv (also use rename file)
+
+mv new_file.txt newfile.txt
+
+## copy
+
+cp
+
+cp -R 
+#for copyning all file from directory to directorydirectory
+
+
+
+###delete
+rm remove from computer, does not go to trash, so careful
+
+rm ## only remove files
+
+rmdir # remove empty directory
+
+rm -R # remove files and directory recursively.
+##alias
+
+ln
+
+
+## searching file 
+find (path)
+##
+
+sudo
+
+
+
+##path
+
+
+## which is
+
+# date
+#uptime
+users
+who
+uname
+uname -mnrsvp
+
+## disk information
+
+df
+df -H (for size)
+
+
+## process
+ps
+ps -a
+ps aux (running process)
+
+## monitoring process
+top
+ top -n 10 -o cpu -s 3 -U YOUSUF
+
+stop( ctl+c)
+
+kill
+
+
+
+## history
+
+to remove (history -c)
+####
+
+
+cat (to show content)
+
+direct output (>)
+
+# append 
+
+>>
+
+
+#pipe
+
+|
+
+# suppress output
+
+> /dev/null
+
+
+## alias ll= 'ls -la'
+for current 
+
+for permanent;
+put in .bashrc file
+
+
+## prompt config
+
+  nano people.txt
+  476  ls
+  477  echo "claire" >> people.txt 
+  478  cat people.txt 
+  479  sort < fruit.txt 
+  480  wc < lorem_ipsum.txt 
+  481  wc lorem_ipsum.txt 
+  482  echo "(3*4)+(11*37)" > calcualtion.txt
+  483  bc < calcualtion.txt 
+  484  history
+  485  echo "hello world" | wc
+  486  echo "(3*4)+(11*37)" | bc
+  487  pwd
+  488  cat fruit.txt  | sort
+  489  cat fruit.txt  | sort |uniq
+  490  cat fruit.txt  | sort |uniq > uniq_sort_friut.txt
+  491  ls
+  492  ls -la > /dev/null
+  493  ls
+  494  cat lorem_ipsum.txt  > /dev/null
+  495  ls -la
+  496  cs ~
+  497  cd
+  498  ls -la
+  499  find .*
+  500  bash
+  501  PWD
+  502  ALIAS
+  503  alias
+  504  ll
+  505  la
+  506  alias
+  507  lsd
+  508  echo $PATH
+  509  PS1= ">>> "
+  510  pwd
+  511  ls -la
+  512  nano .bashrc
+  513  nano .bash_profile
+  514  nano .aliases
+  515  nano .bash_prompt 
+  516  pwd
+  517  cd unix/
+  518  ls
+  519  cd unix_files/
+
+
+
+  520  ls
+  521  cd Chapter_08/
+  522  ls
+  523  cd 08_01_files/
+  524  ls
+  525  cd unix_files/
+  526  ls
+  527  grep apple fruit.txt 
+  528  grep -i Apple fruit.txt 
+  529* man gr
+  530  grep -v apple fruit.txt 
+  531  grep -c apple fruit.txt 
+  532  grep -R apple /user/
+  533  grep -R apple .
+  534  grep -Rl apple
+  535  grep -Rh apple .
+  536  ls *.txt
+  537  grep apple *.fruit.txt
+  538  ls
+  539  history | grep grep
+  540  grep lorem_ipsum.txt 
+  541  grep lorem lorem_ipsum.txt 
+  542  grep --color lorem lorem_ipsum.txt 
+  543  ls
+  544  ls
+  545  grep lorem lorem_doc.docx 
+  546  grep --color lorem lorem_doc.docx 
+  547  ls
+  548  open lorem_doc.docx 
+  549  grep lorem lorem_doc.docx 
+  550  grep --color lorem lorem_doc.docx 
+  551  grep --color=auto lorem_i
+  552  history
+
+
+curl ###################################
+
+
+curl http://google.com
+
+json response
+
+down load
+
+curl -o test.txt http://ksdjflka.com
+
+
+paswwrod :
+
+curl -u corey:pass http://localhost/secret
+
+download
+
+curl -o file.jpg http://kjdalkj.com/odwnload
+
+open file.jpg
+
+
+
+############################################
+find fin find find find 
+
+find all file/directory in current directory
+
+find .
+
+find all file and directory in a directory
+
+find directory path
+
+find unix (unix is folder here)
+
+only directory
+
+find . -type d
+
+only file 
+
+find . -type f
+
+file with specific name
+
+find . -type f -name "test_1.txt"
+
+file with not specific name (stat with test)
+
+find . -type f -name "test*
+
+case inssensitive
+
+find . -type f -iname "test*"
+
+
+
+
+all python file 
+
+find . -type f -name "*.py"
+
+
+find . -type f -mmin -10 (in last 10 min)
+
+find . -type f -mmin +10 more than 10 minute
+
+find . -type f -mmin +1 -nmin -5 (more than 1 minute less than 5 minute)
+
+find . -type f -mtyme -20 (in last 20 days)
+
+( amin atime access time)
+
+find . -size +5M (over 5 Mb in current directory) (k for kilo byte
+
+ls -lah (size return)
+
+find . -empty (find empty folder file)
+
+find . -perm 777(permission)
+
+###########
+
+find . -type f -name "*.jpg" (find all jpg file)
+find . -type f -name "*.jpg" -maxdepth 1. (only one directory)
+
+find . -type f -name "*.jpg" -maxdepth 1 -exec rm {} +
+
+
+
+#############
+
+terminal
+#change screenshot location on mac terminal
+
+defaults write com.apple.screencapture location (path)
+
+killall SystemUIServer
+
+
+defaults write com.apple.screencapture name "OSXDaily"
+
+killall SystemUIServer
+
+############
+
+
+
+
+
+
